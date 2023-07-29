@@ -1,0 +1,10 @@
+{
+  "type": "service_account",
+  "project_id": "profound-portal-380619",
+  "client_email": "botcc-246@profound-portal-380619.iam.gserviceaccount.com",
+  "client_id": "115419457723789328012",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/botcc-246%40profound-portal-380619.iam.gserviceaccount.com"
+}
